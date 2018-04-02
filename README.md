@@ -1,4 +1,4 @@
-### Reading list of must read reinforcement learning papers
+### Reinforcement learning paper reading list
 <hr>
 
 - DQN - https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
