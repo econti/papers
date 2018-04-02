@@ -1,4 +1,4 @@
-### Reading list of must read AI papers
+### Reading list of must read RL papers
 <hr>
 
 - DQN - https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
